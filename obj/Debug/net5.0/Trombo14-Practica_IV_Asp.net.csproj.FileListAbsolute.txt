@@ -1,0 +1,16 @@
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\obj\Debug\net5.0\Trombo14-Practica_IV_Asp.net.csprojAssemblyReference.cache
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\obj\Debug\net5.0\Trombo14-Practica_IV_Asp.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\obj\Debug\net5.0\Trombo14-Practica_IV_Asp.net.AssemblyInfoInputs.cache
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\obj\Debug\net5.0\Trombo14-Practica_IV_Asp.net.AssemblyInfo.cs
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\obj\Debug\net5.0\Trombo14-Practica_IV_Asp.net.csproj.CoreCompileInputs.cache
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\bin\Debug\net5.0\Trombo14-Practica_IV_Asp.net.exe
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\bin\Debug\net5.0\Trombo14-Practica_IV_Asp.net.deps.json
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\bin\Debug\net5.0\Trombo14-Practica_IV_Asp.net.runtimeconfig.json
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\bin\Debug\net5.0\Trombo14-Practica_IV_Asp.net.runtimeconfig.dev.json
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\bin\Debug\net5.0\Trombo14-Practica_IV_Asp.net.dll
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\bin\Debug\net5.0\ref\Trombo14-Practica_IV_Asp.net.dll
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\bin\Debug\net5.0\Trombo14-Practica_IV_Asp.net.pdb
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\obj\Debug\net5.0\Trombo14-Practica_IV_Asp.net.dll
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\obj\Debug\net5.0\ref\Trombo14-Practica_IV_Asp.net.dll
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\obj\Debug\net5.0\Trombo14-Practica_IV_Asp.net.pdb
+C:\Users\Novosit-Jimmond\Downloads\Practica IV\Trombo14-Practica_IV_Asp.net\obj\Debug\net5.0\Trombo14-Practica_IV_Asp.net.genruntimeconfig.cache
